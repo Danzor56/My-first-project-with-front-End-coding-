@@ -1,0 +1,33 @@
+.gcont {width: 200px; 
+        height: 350px; 
+        border: 1px white; 
+        padding: 10px; 
+        position: absolute;
+        border-radius: 10px;
+        top: 10%;
+        left: 70px;
+        background-color: white;}
+img {width: 200px;
+    height: 200px;
+    border-radius: 10px;}
+.ychoir {font-size: 20px;
+        text-align: center;
+        font-weight: bold;}
+.oyo {color: hsl(212, 45%, 89%);
+    text-align: center;
+    font-size: 15px;}
+body {background-color: hsl(220, 15%, 55%);}
+.win {width: 275px;
+    height: 275px;
+    border: 1px white;
+    background-color: indigo;
+    position: absolute
+    padding-top: 500px;
+    left: 300px;
+    padding-right: 10px;
+    border-radius: 50%;
+    
+}
+.t {padding-top: 500px;
+    font-size: 39px;
+}
